@@ -1,0 +1,1 @@
+//Write a program to check whether a entered character is lowercase ( a to z ) or uppercase ( A to Z ).
