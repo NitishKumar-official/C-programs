@@ -17,8 +17,9 @@ class demo{
 
 int main(){
     demo obj1,obj2, obj3;
-    {
+    
         demo obj4;
-    }
+    
+    demo obj5;
     return 0;
 }
