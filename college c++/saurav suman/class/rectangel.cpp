@@ -12,7 +12,7 @@ class rectangle{
     }
     void showArea(){
        int area=width*height;
-       cout<<"Area:"<<area<<endl;
+         cout<<"Area:"<<area<<endl;
     }
     void showPARE(){
         int paremeter= 2*(width*height);
